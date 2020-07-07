@@ -7,4 +7,6 @@ pip install sklearn
 pip install matplotlib
 pip install tensorflow
 pip install keras
+pip install jupyter notebook
+ipython kernel install --user --name=ml101
 jupyter notebook
